@@ -1,0 +1,45 @@
+.container {
+  
+    margin-top: 10px;
+    text-align: center;
+    width: 900px;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    height: 620px;
+}
+
+.header{
+    
+    /*margin: 10px;*/
+    height: 150px;
+    background-color: rgb(83, 124, 124);
+    width: 880px;
+}
+
+.main {
+   
+    margin: 10px;
+    height: 400px;
+    width: 650px;
+    float: left;
+}
+
+.side {
+   
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 400px;
+    width: 216px;
+    float: left;
+}
+
+.footer {
+    
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-right: 20px;
+    height: 50px;
+    float: left;
+    width: 98%;
+}

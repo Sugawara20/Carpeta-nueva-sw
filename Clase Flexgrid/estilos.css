@@ -1,0 +1,35 @@
+.section {
+    display: flex;
+    box-sizing: content-box;
+    flex-direction: row;
+}
+
+.header{
+    display: flex;
+    padding: 20px;
+    background-color: lightblue;
+}
+
+
+.aside {
+    background-color: beige;
+    flex: 1;
+
+}
+
+.article {
+    background-color: beige;
+    flex: 3;
+}
+
+.footer{
+    display: flex;
+    background-color: beige;
+
+}
+
+@media (max-width: 500px){
+    .container {
+        flex-direction: column;
+    }
+}

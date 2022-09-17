@@ -1,0 +1,64 @@
+.container {
+  
+    margin-top: 10px;
+    text-align: center;
+    width: 900px;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    height: 620px;
+}
+
+.header{
+    
+    /*margin: 10px;*/
+    height: 200px;
+    background-color: rgb(83, 124, 124);
+    width: 660px;
+    float: left;
+}
+
+.header2{
+    
+    /*margin: 10px;*/
+    height: 200px;
+    background-color: rgb(83, 124, 124);
+    width: 220px;
+    float: left;
+
+}
+
+.main {
+   
+    margin: 10px;
+    height: 400px;
+    width: 250px;
+    float: left;
+}
+
+.side {
+   
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 400px;
+    width: 350px;
+    float: left;
+}
+
+.ST{
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 400px;
+    width: 250px;
+    float: left;
+}
+
+.footer {
+    
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-right: 20px;
+    height: 50px;
+    float: left;
+    width: 98%;
+}

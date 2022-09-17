@@ -1,0 +1,33 @@
+body{  
+    color: bisque;
+    background-color: #000;
+}
+
+h1{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: cadetblue;}
+
+a:hover {
+    color: white;
+}
+
+#subP{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: rgb(154, 212, 134);
+}
+
+.parrafo {
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.popup {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    border: 1px solid;
+    right: 5px;
+    top: 10px;
+    z-index: 3;
+    background-color: rgb(0,0,0,0.5);
+}
